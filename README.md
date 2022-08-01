@@ -6,8 +6,8 @@
 ---
 
 ### Implementation
-* ubuntu.pkr.hcl
-* preseed.pkrtpl
+* [ubuntu.pkr.hcl](ubuntu.pkr.hcl)
+* [preseed.pkrtpl](preseed.pkrtpl)
 
 ### Useful Information
 * Focusing on creating Vagrant boxes using Libvirt/KVM/QEMU
@@ -24,6 +24,7 @@
 ---
 
 ## Notes
+* 
 
 
 ---
